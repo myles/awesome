@@ -319,6 +319,7 @@ If you want to create your own list, please read the [create list instructions](
 - [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [GitHub](https://github.com/phillipadsmith/awesome-github)
+- [Static Web Site Generators](https://github.com/myles/awesome-static-generators)
 
 ## License
 
